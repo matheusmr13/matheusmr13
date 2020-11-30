@@ -1,7 +1,7 @@
 ### Hey, I'm Mathixa! 👋
 
 🧚🏼‍♀️ Frontend developer passionate about people, always looking forward to impact people lives <br>
-🤓 Frontend Engineer at [iFood](https://www.ifood.com.br/) <br>
+🤓 Frontend Engineer at [Nomad](https://www.nomadglobal.com/) <br>
 
 ### What I'm working on 👨‍💻
 
